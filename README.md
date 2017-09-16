@@ -1,0 +1,3 @@
+# ProjectGreenhouse
+I will be using this site to program a greenhouse monitoring system.
+It will be coded in python for a master/ slave microprocessor system. Where a Raspberry pi acts as a master and and Arduino acts as a slave. I will be monitoring temp, huidity, rain, etc...
